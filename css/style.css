@@ -1,0 +1,19 @@
+*{
+ margin: 0;
+    padding: 0;
+}
+.pagination-centered{text-align:center;
+
+padding-top: 30px;}
+.under{
+    padding-bottom: 30px;
+}
+.pic{
+    padding-top: 50px;
+}
+.padding-left{
+    padding-left: 35px;
+}
+.top-margin{
+    margin-top: 30px;
+}
